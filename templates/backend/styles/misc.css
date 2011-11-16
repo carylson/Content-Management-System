@@ -1,0 +1,102 @@
+/* Session message */
+
+.session-message {
+	padding: 10px;
+	text-align: center;
+	background: #ffcccc;
+}
+
+	.session-message a { color: #333; }
+
+/* System message */
+
+.system-message {
+	padding: 10px;
+	text-align: center;
+	background: #ccffcc;
+}
+
+	.system-message a { color: #333; }
+
+/* Upgrade message */
+
+.upgrade-message {
+	padding: 10px;
+	text-align: center;
+	background: #ffffcc;
+}
+
+	.upgrade-message a { color: #333; }
+
+/* Forms */
+
+form input,
+form textarea,
+form select,
+form button {
+	border: 1px solid #ccc;
+	margin: 0;
+	padding: 5px;
+	background: #eee;
+	font-size: 14px;
+}
+
+/* (Submit) buttons */
+
+/*
+form input[type=submit] {
+	padding: 5px 15px;
+	background: #2d8dc8 url(../images/button.png) repeat-x;
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	border: none;
+	white-space: nowrap;
+	cursor: pointer;
+}
+
+form input[type=submit]:hover {
+	position: relative;
+	top: -1px;
+}
+
+form input[type=submit]:active {
+	position: relative;
+	top: 0px;
+}
+
+form input[type=submit].primary {
+	background-color: #98dd35;
+	font-size: 22px;
+}
+*/
+
+/* Website Mnagament page boxes */
+
+a.applet { 
+	display: block; 
+	float: left;
+	margin: 0px 5px 5px 0px;
+	position: relative;
+	background: #eee;
+	text-align: center;
+	border: 1px solid transparent;
+}
+a.applet:hover {
+	border: 1px solid #ccc;
+}
+a.applet .title {
+	text-align: center;
+	padding: 0px 5px 10px 5px; 
+}
+a.applet img {
+	display: block;
+	width: 128px;
+	height: 128px;
+}
+
+/* Tables */
+
+.content table td {
+	padding: 5px;
+}

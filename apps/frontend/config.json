@@ -1,0 +1,4 @@
+{
+	"template" : "templates/frontend/template.tpl",
+	"mobile_template" : "templates/frontend/mobile.tpl"
+}

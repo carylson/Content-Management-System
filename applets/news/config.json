@@ -1,0 +1,19 @@
+{
+	"name" : "News",
+	"helpers" : {
+    	"sizzle_news" : {
+        	"name" : "News",
+        	"method" : "output",
+        	"params" : {
+            	"article_limit" : "([0-9]*)"
+        	}
+    	},
+    	"sizzle_news_feed" : {
+        	"name" : "News (feed)",
+        	"method" : "outputFeed",
+        	"params" : {
+            	"article_limit" : "([0-9]*)"
+        	}
+    	}
+	}
+}

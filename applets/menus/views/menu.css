@@ -1,0 +1,24 @@
+/* Reset UL margin that I can't over-ride with ".menu ul" for whatever reason */
+.body .content ul { margin: 0px; }
+
+.menu { margin-bottom: 10px; }
+
+.menu li { list-style: none; width: 320px; position: relative; margin-top: 10px; }
+
+.menu li .name { height: 20px; padding: 5px; cursor: move; }
+
+.menu li .drawer { display: none; }
+
+.menu li .drawer form { padding: 5px; }
+
+.menu li .buttons { position: absolute; top: 4px; right: 5px; }
+
+.menu li .buttons button,
+.menu li .buttons label { width: 25px; text-align: center; }
+
+.menu li .buttons button .ui-button-text,
+.menu li .buttons label .ui-button-text { padding: 0px; }
+
+.menu li ul { padding-left: 50px; background: transparent url(/templates/backend/images/child.png) 20px -5px no-repeat; }
+
+.menu .ui-state-highlight { width: 320px; height: 30px; margin-top: 10px; }

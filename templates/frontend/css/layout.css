@@ -1,0 +1,210 @@
+@font-face {
+  font-family: Chunk;
+  src: url('../font/Chunk.ttf');
+}
+
+body {
+    background: #000;
+    /* 
+    font-family: Cambria, Georgia, serif; 
+    font-size: 16px;
+    */
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Tahoma, sans-serif;
+    font-size: 13px;
+}
+
+    .colorful {
+        width: 100%;
+        background: #000 url(../img/background-colorful-2.png) center top no-repeat fixed;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+
+	.container {
+		width: 960px;
+		margin: 0px auto;
+		padding: 0px 0px 50px;
+	}
+	
+		.header {
+			width: 680px;
+			position: relative;
+		}
+
+			/*.header*/ .menu {
+				background: #000;
+				margin: 10px 0px;
+				padding: 10px 0px;
+				text-align: center;
+			}
+			
+				/*.header*/ .menu li {
+					list-style: none;
+					display: inline;
+					color: #fff;
+				}
+				
+					/*.header*/ .menu a {
+						padding: 0px;
+						margin: 0px 20px;
+						color: #fff;
+						font-size: large;
+						letter-spacing: 5px;
+						text-decoration: none;
+						text-transform: uppercase;
+					}
+					
+					/*.header*/ .menu a:hover {
+						border-bottom: 1px dotted #fff;
+					}
+		
+			.logo {
+				display: block;
+				margin: 100px 0px 40px;
+				color: #fff;
+				font-size: 60px;
+				text-decoration: none;
+				text-align: center;
+				font-family: Chunk;
+				text-shadow: #000 0px 0px 1px;
+			}
+			
+				.logo span {
+					display: block;
+					font-size: 26px;
+					line-height: 28px;
+					letter-spacing: 0px;
+					text-shadow: none;
+				}
+					
+		.body {}
+		
+			.col1-container {
+				float: left;
+				position: relative;
+				overflow: hidden;
+			}
+
+				.col2-container {
+					float: left;
+					position: relative;
+					left: 680px;
+				}
+				
+					.col1 {
+						float: left;
+						width: 680px;
+						position: relative;
+						right: 680px;
+						background: #fff;
+					}
+
+						.content {
+							padding: 0px 20px 20px;
+						}
+
+    						.session-message {
+    							padding: 10px 0px;
+    							background: #ffeeee;
+    							text-align: center;
+    							margin-top: 20px;
+    							border: 1px solid #ffcccc;
+    						}
+    						
+    						.breadcrumbs {
+    							padding: 10px 0px;
+    							font-size: 10px;
+    							margin-top: 20px;
+								border-bottom: 1px dotted #000;
+								color: #999;
+    						}
+    						
+        						.breadcrumbs a {
+            						text-decoration: none;
+        						}
+
+							.content h1 {
+								text-align: center;
+								margin: 0px 0px 20px;
+								padding: 40px 0px;
+								border-bottom: 1px dotted #000;
+							}
+							
+							.content a {
+								color: #000;
+							}
+
+							.item {
+								border-bottom: 1px dotted #ccc;
+							}
+								
+								.item .info {
+									margin-top: -15px;
+									font-size: small;
+									color: #999;
+								}
+
+					.col2 {
+						float: left;
+						width: 280px;
+						position: relative;
+						right: 680px;
+					}
+					
+						.sidebar {
+							margin-top: 10px;
+							margin-left: 20px;
+							color: #fff;
+						}
+						
+							.sidebar .icons {
+								text-align: center;
+								font-size: small;
+							}
+							
+								.sidebar .icons img {
+									width: 75px;
+								}
+							
+							.sidebar h3 {
+								font-family: Chunk;
+								text-shadow: #000 0px 0px 1px;
+							}
+							
+							.sidebar ul {
+								margin: -10px 0px 30px;
+								padding: 0px;
+							}
+							
+								.sidebar li {
+									border-bottom: 1px dotted #fff;
+									padding: 5px 0px;
+									list-style: none;
+									font-size: small;
+								}
+								
+								.sidebar li:first-child {
+									border-top: 1px dotted #fff;
+								}
+								
+									.sidebar a {
+										color: #fff;
+										text-decoration: none;
+									}
+
+									/*
+									.sidebar a:hover {
+										text-decoration: underline;
+									}
+									*/
+
+		.footer {
+			width: 680px;
+			color: #fff;
+			text-align: center;
+		}
+		
+			.footer a {
+				color: #fff;
+			}

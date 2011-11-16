@@ -1,0 +1,6 @@
+.images .image { display:block; width:128px; height:128px; float:left; margin:0 5px 5px 0; position:relative; }
+.images .image a.move { position:absolute; top:5px; right:53px; cursor:move; }
+.images .image a.edit { position:absolute; top:5px; right:29px; }
+.images .image a.delete { position:absolute; top:5px; right:5px; }
+.images .image a img { height: 24px; }
+.images .image a img.thumbnail { height: 128px; }

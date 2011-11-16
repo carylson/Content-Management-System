@@ -1,0 +1,12 @@
+{
+	"name" : "Analytics",
+	"helpers" : {
+    	"sizzle_analytic" : {
+        	"name" : "Analytic",
+        	"method" : "output",
+        	"params" : {
+            	"id" : "([0-9]*)"
+        	}
+    	}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name" : "Sitemaps",
+	"helpers" : {
+    	"sizzle_sitemap" : {
+        	"name" : "Sitemap",
+        	"method" : "output",
+        	"params" : {
+            	"id" : "([0-9]*)"
+        	}
+    	}
+	}
+}

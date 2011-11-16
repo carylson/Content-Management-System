@@ -1,0 +1,12 @@
+{
+	"name" : "Sharers",
+	"helpers" : {
+    	"sizzle_sharer" : {
+        	"name" : "Sharer",
+        	"method" : "output",
+        	"params" : {
+            	"id" : "([0-9]*)"
+        	}
+    	}
+	}
+}

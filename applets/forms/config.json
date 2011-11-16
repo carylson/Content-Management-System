@@ -1,0 +1,12 @@
+{
+	"name" : "Forms",
+	"helpers" : {
+    	"sizzle_form" : {
+        	"name" : "Form",
+        	"method" : "output",
+        	"params" : {
+            	"id" : "([0-9]*)"
+        	}
+    	}
+	}
+}

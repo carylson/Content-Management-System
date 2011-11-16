@@ -1,0 +1,26 @@
+{
+	"name" : "Content",
+	"helpers" : {
+    	"sizzle_content" : {
+        	"name" : "Content (by ID)",
+        	"method" : "outputById",
+        	"params" : {
+            	"id" : "([0-9]*)"
+        	}
+    	},
+    	"sizzle_content_by_url" : {
+        	"name" : "Content (by URL)",
+        	"method" : "outputByUrl",
+        	"params" : {
+            	"id" : "([A-Za-z0-9+_]*)"
+        	}
+    	},
+    	"sizzle_meta" : {
+        	"name" : "META Data",
+        	"method" : "outputMeta",
+        	"params" : {
+            	"type" : "(title|keywords|description)"
+        	}
+    	}
+	}
+}

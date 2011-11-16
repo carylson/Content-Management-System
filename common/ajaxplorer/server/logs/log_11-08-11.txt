@@ -1,0 +1,94 @@
+11-08-11 21:07:18	127.0.0.1	INFO	staff@noein.com	Create User	user_id=admin
+11-08-11 21:07:18	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/public;is_dir=false;is_writeable=false
+11-08-11 21:07:19	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/public;is_dir=false;is_writeable=false
+11-08-11 21:07:20	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/public;is_dir=false;is_writeable=false
+11-08-11 21:07:20	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/public;is_dir=false;is_writeable=false
+11-08-11 21:08:23	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:08:23	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:08:24	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:08:24	127.0.0.1	DEBUG	staff@noein.com	LS Time : 24ms	
+11-08-11 21:08:24	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:11:03	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:11:03	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:11:04	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:11:04	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:11:04	127.0.0.1	DEBUG	staff@noein.com	LS Time : 9ms	
+11-08-11 21:11:15	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:11:15	127.0.0.1	DEBUG	staff@noein.com	caching data	
+11-08-11 21:12:46	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:12:46	127.0.0.1	DEBUG	staff@noein.com	caching data	
+11-08-11 21:12:47	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:12:47	127.0.0.1	INFO	staff@noein.com	Download	files=/aaron.jpg
+11-08-11 21:12:47	127.0.0.1	DEBUG	staff@noein.com	Sending accept range 0-38823	
+11-08-11 21:13:00	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:13:14	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:13:42	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:15:48	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:15:48	127.0.0.1	INFO	staff@noein.com	error	message=Invalid Referrer in /Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/plugins/editor.pixlr/class.PixlrEditor.php (l.98)
+11-08-11 21:15:49	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:15:49	127.0.0.1	DEBUG	staff@noein.com	LS Time : 5ms	
+11-08-11 21:15:49	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:15:49	127.0.0.1	DEBUG	staff@noein.com	getting from cache	
+11-08-11 21:15:49	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:15:57	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:15:57	127.0.0.1	DEBUG	staff@noein.com	getting from cache	
+11-08-11 21:18:32	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:18:32	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:18:34	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:18:34	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:18:34	127.0.0.1	DEBUG	staff@noein.com	LS Time : 554ms	
+11-08-11 21:19:45	127.0.0.1	DEBUG	shared	Switching to session AjaXplorer	
+11-08-11 21:19:45	127.0.0.1	DEBUG	shared	Closing previous session Sizzle!_CMS / 3b4281c636a4c1e745637390ab017a27	
+11-08-11 21:19:45	127.0.0.1	DEBUG	shared	Restarted session AjaXplorer / a0b7efedeeda2e8b38963165d6509819	
+11-08-11 21:19:45	127.0.0.1	INFO	shared	Create User	user_id=staff@noein.com
+11-08-11 21:19:45	127.0.0.1	INFO	staff@noein.com	Log In	
+11-08-11 21:19:55	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:19:55	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:19:56	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:19:56	127.0.0.1	DEBUG	staff@noein.com	LS Time : 5ms	
+11-08-11 21:19:57	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:20:12	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:20:13	127.0.0.1	DEBUG	staff@noein.com	Upload Files Data	userfile_0=name=aaronnkitnjenna.png;type=image/png;tmp_name=/Applications/MAMP/tmp/php/phpedkiQK;error=0;size=188862
+11-08-11 21:20:13	127.0.0.1	DEBUG	staff@noein.com	Upload inside	destination=ajxp.fs://0/
+11-08-11 21:20:13	127.0.0.1	INFO	staff@noein.com	Upload File	file=//aaronnkitnjenna.png
+11-08-11 21:20:13	127.0.0.1	DEBUG	staff@noein.com	Return success	
+11-08-11 21:20:13	127.0.0.1	DEBUG	staff@noein.com	SimpleUploadProc is active	
+11-08-11 21:20:13	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:20:13	127.0.0.1	DEBUG	staff@noein.com	LS Time : 41ms	
+11-08-11 21:20:13	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:31:16	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:31:16	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:31:18	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:31:18	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:31:18	127.0.0.1	DEBUG	staff@noein.com	LS Time : 10ms	
+11-08-11 21:31:27	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:31:27	127.0.0.1	DEBUG	staff@noein.com	Upload Files Data	userfile_0=name=IMG_0015.JPG;type=image/jpeg;tmp_name=/Applications/MAMP/tmp/php/php5vp2zI;error=0;size=343876
+11-08-11 21:31:27	127.0.0.1	DEBUG	staff@noein.com	Upload inside	destination=ajxp.fs://0/
+11-08-11 21:31:27	127.0.0.1	INFO	staff@noein.com	Upload File	file=//IMG_0015.JPG
+11-08-11 21:31:27	127.0.0.1	DEBUG	staff@noein.com	Return success	
+11-08-11 21:31:27	127.0.0.1	DEBUG	staff@noein.com	SimpleUploadProc is active	
+11-08-11 21:31:28	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:31:28	127.0.0.1	DEBUG	staff@noein.com	LS Time : 8ms	
+11-08-11 21:31:28	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:31:36	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:31:36	127.0.0.1	DEBUG	staff@noein.com	caching data	
+11-08-11 21:31:43	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:32:08	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:32:08	127.0.0.1	INFO	staff@noein.com	error	message=Invalid Referrer in /Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/plugins/editor.pixlr/class.PixlrEditor.php (l.98)
+11-08-11 21:32:08	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:32:08	127.0.0.1	DEBUG	staff@noein.com	getting from cache	
+11-08-11 21:32:08	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 21:32:08	127.0.0.1	DEBUG	staff@noein.com	LS Time : 8ms	
+11-08-11 21:32:09	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 22:02:24	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 22:02:24	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 22:02:25	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 22:02:25	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 22:02:26	127.0.0.1	DEBUG	staff@noein.com	LS Time : -771ms	
+11-08-11 22:17:00	127.0.0.1	INFO	staff@noein.com	Create User	user_id=admin
+11-08-11 22:17:01	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 22:17:02	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 22:17:02	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 22:17:02	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false
+11-08-11 22:17:03	127.0.0.1	DEBUG	staff@noein.com	LS Time : -936ms	
+11-08-11 22:31:03	127.0.0.1	INFO	staff@noein.com	Disabling Public links, PUBLIC_DOWNLOAD_FOLDER is not writeable!	folder=/Users/carylson/Sites/sizzle/trunk/docs/common/ajaxplorer/files;is_dir=true;is_writeable=false

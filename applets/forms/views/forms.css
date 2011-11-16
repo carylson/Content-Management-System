@@ -1,0 +1,19 @@
+/* Reset UL margin that I can't over-ride with ".form ul" for whatever reason */
+.body .content ul { margin: 0px; }
+
+.form { margin-bottom: 10px; }
+
+.form li { list-style: none; /* width: 520px; */ position: relative; margin-top: 10px; }
+.form li .name { height: 20px; padding: 5px; cursor: move; text-transform: capitalize; }
+.form li .drawer { display: none; }
+.form li .drawer form { padding: 5px; }
+.form li .buttons { position: absolute; top: 4px; right: 5px; }
+.form li .buttons button,
+.form li .add-option,
+.form li li button { width: 25px; text-align: center; }
+.form li .buttons button .ui-button-text,
+.form li .add-option .ui-button-text,
+.form li li button .ui-button-text { padding: 0px; }
+.form li ul { padding-left: 50px; background: transparent url(/templates/backend/images/child.png) 20px -5px no-repeat; }
+
+.form .ui-state-highlight { /* width: 520px; */ height: 30px; margin-top: 10px; }

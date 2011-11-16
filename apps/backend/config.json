@@ -1,0 +1,20 @@
+{
+	"template" : "templates/backend/template.tpl",
+	"managed_views" : {
+    	"Core" : {
+            "users" : { "view" : "View All", "add" : "Add", "edit" : "Edit", "delete" : "Delete" },
+            "content" : { "view" : "View All", "add" : "Add", "edit" : "Edit", "delete" : "Delete", "options" : "Options" },
+            "menus" : { "view" : "View All", "add" : "Add", "edit" : "Edit", "delete" : "Delete" },
+            "files" : { "view" : "View All" }
+    	},
+    	"Miscellaneous" : {
+            "forms" : { "view" : "View All", "add" : "Add", "edit" : "Edit", "delete" : "Delete" },
+            "analytics" : { "view" : "View All", "add" : "Add", "edit" : "Edit", "delete" : "Delete" },
+            "galleries" : { "view" : "View All", "add" : "Add", "edit" : "Edit", "delete" : "Delete" },
+            "news" : { "view" : "View All", "add" : "Add", "edit" : "Edit", "delete" : "Delete" },
+            "blog" : { "view" : "View All", "add" : "Add", "edit" : "Edit", "delete" : "Delete" },
+            "sitemaps" : { "view" : "View All", "add" : "Add", "edit" : "Edit", "delete" : "Delete" },
+            "sharers" : { "view" : "View All", "add" : "Add", "edit" : "Edit", "delete" : "Delete" }
+    	}
+	}
+}

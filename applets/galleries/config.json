@@ -1,0 +1,26 @@
+{
+	"name" : "Galleries",
+	"helpers" : {
+    	"sizzle_gallery" : {
+        	"name" : "Gallery",
+        	"method" : "output",
+        	"params" : {
+            	"id" : "([0-9]*)"
+        	}
+    	},
+    	"sizzle_carousel" : {
+        	"name" : "Gallery (Carousel)",
+        	"method" : "outputCarousel",
+        	"params" : {
+            	"id" : "([0-9]*)"
+        	}
+    	},
+    	"sizzle_random" : {
+        	"name" : "Gallery (Random)",
+        	"method" : "outputRandom",
+        	"params" : {
+            	"id" : "([0-9]*)"
+        	}
+    	}
+	}
+}

@@ -1,0 +1,199 @@
+body {
+	font-family: "Lucida Grande", Verdana, "Bitstream Vera Sans", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	color: #333;
+}
+
+	.header {
+		background: #97DC33 url(../images/header.png) repeat-x bottom left;
+		width: 100%;
+		height: 100px;
+	}
+	
+	.body {}
+	
+		.body .container {
+			width: 960px;
+			margin: 10px auto 20px;
+			position: relative;
+		}
+		
+			.body .container h1 {
+				font-size: 26px;
+				line-height: 32px;
+				color: #78CC00;
+			}
+			
+			.body .container h2 {
+				font-size: 22px;
+				line-height: 28px;
+				color: #78CC00;
+			}
+			
+			.body .container h3 {
+				font-size: 18px;
+				line-height: 24px;
+				color: #78CC00;
+			}
+			
+			.body .container p, 
+			.body .container h1, 
+			.body .container h2, 
+			.body .container h3 { margin-bottom: 10px; }
+			
+			.body .content a,
+			.body .sidebar a { color: #78CC00; }
+			
+			.body .container hr {
+				height: 10px;
+				background: #eee;
+				border: none;
+			}
+			
+			.body .container small { font-size: 12px; }
+			
+			.body .content ol {
+				margin: 0px 0px 0px 40px;
+				list-style: decimal;
+			}
+				
+				.body .content li ol { list-style: lower-alpha; }
+			
+			.body .content ul {
+				margin: 0px 0px 0px 40px;
+				list-style: disc;
+			}
+				
+				.body .content li ul { list-style: circle; }
+
+			.logo {
+				display: block;
+				top: -70px;
+				left: 0px;
+				position: absolute;
+				color: #fff;
+				text-decoration: none;
+				text-transform: lowercase;
+				font-size: 36px;
+			}
+			
+			.navigation {
+				top: -70px;
+				right: 0px;
+				position: absolute;
+			}
+			
+				.navigation li {
+					float: left;
+					margin-left: 5px;
+					background: #6AB000;
+					position: relative;
+				}
+				
+				.navigation li:hover,
+				.navigation li.current { background: #97dc33; }
+			
+					.navigation a {
+						display: block;
+						padding: 15px 20px;	
+						color: #fff;
+						text-decoration: none;
+						text-transform: lowercase;
+					}
+					
+					.navigation a:hover { text-decoration: underline; }
+					
+					.navigation ul {
+    					background: #97DC33;
+    					position: absolute;
+    					top: 100%;
+    					right: -100px;
+    					display: none;
+    					z-index: 99999;
+					}
+
+    				.navigation li:hover ul { display: block; }
+					
+    					.navigation ul li {
+        					float: left;
+        					background: none;
+        					margin-left: 0;
+        					position: relative;
+        					border-right: 1px dotted #6AB000;
+        					margin-right: 19px;
+        					margin-bottom: 10px;
+    					}
+
+    					/* .navigation ul li:nth-child(7), */
+    					.navigation ul h3 { clear: left; }
+
+    					.navigation ul li:hover,
+    					.navigation ul li.current { background: none; }
+
+        					.navigation ul a {
+            					padding: 0;
+            					width: 100px;
+            					color: #6AB000;
+            					font-weight: bold;
+        					}
+        					
+            					.navigation ul ul {
+                					display: block;
+                					position: static;
+            					}
+            					
+                					.navigation ul ul li {
+                    					float: none;
+                    					border-right: none;
+                    					margin-bottom: 0;
+                					}
+
+                                        .navigation ul ul li a {
+                                            color: #fff;
+                                            font-weight: normal;
+                                        }
+			.content {
+				display: block;
+				min-height: 420px;
+				position: relative;
+			}
+				
+			.sidebar { position: relative; }
+
+				.sidebar ul {}
+				
+					.sidebar ul li {
+						border-bottom: 1px dashed #eee;
+						padding: 10px;
+						list-style: none;
+					}
+
+						.sidebar ul li a { color: #78CC00; }
+
+				.actions {}
+
+					.actions li {
+						list-style: url(../images/bullet.png) inside !important;
+					}
+
+						.actions li a {
+							color: #333;
+							text-decoration: none;
+							text-transform: lowercase;
+						}
+
+						.actions li a:hover { text-decoration: underline; }
+
+	.footer {
+		background: transparent url(../images/footer.png) repeat-x top left;
+		width: 100%;
+		height: 110px;
+		text-align: center;
+	}
+	
+		.footer a { color: #333; }
+
+		.footer p { padding-top:35px; }
+	
+	

@@ -1,0 +1,19 @@
+{
+	"name" : "Blog",
+	"helpers" : {
+    	"sizzle_blog" : {
+        	"name" : "Blog",
+        	"method" : "output",
+        	"params" : {
+            	"article_limit" : "([0-9]*)"
+        	}
+    	},
+    	"sizzle_blog_feed" : {
+        	"name" : "Blog (feed)",
+        	"method" : "outputFeed",
+        	"params" : {
+            	"article_limit" : "([0-9]*)"
+        	}
+    	}
+	}
+}

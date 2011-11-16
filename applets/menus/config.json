@@ -1,0 +1,19 @@
+{
+	"name" : "Menus",
+	"helpers" : {
+    	"sizzle_menu" : {
+        	"name" : "Menu",
+        	"method" : "output",
+        	"params" : {
+            	"id" : "([0-9]*)"
+        	}
+    	},
+    	"sizzle_breadcrumbs" : {
+        	"name" : "Breadcrumbs",
+        	"method" : "outputBreadcrumbs",
+        	"params" : {
+            	"id" : "([0-9]*)"
+        	}
+    	}
+	}
+}
