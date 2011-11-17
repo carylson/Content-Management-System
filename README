@@ -1,14 +1,13 @@
+A self-authored and maintained content management system.
+I have omitted the required DB schema to prevent unauthorized re-use of this CMS.
+Please review the "INSTALL" text for basic installaion instructions.
 
-	A self-authored and maintained content management system.
-	I have omitted the required DB schema to prevent unauthorized re-use of this CMS.
-	Please review the "INSTALL" text for basic installaion instructions.
+Notes:
+- "Applets" & "Apps" are objects adhering to an MVC structure. They are meant to be customized & expanded upon.
+- "Common" is a library of 3rd party uninstantiated scripts readily available throughout the CMS.
+- "Core" is the system code that shouldn't be modified.
+- "Logs" are... logs.
+- "Templates" are re-usable HTML/CSS/JS/etc. templates. They are meant to be customized and expanded upon.
+- "Uploads" (and its children) are system-writable filespaces.
 
-	Notes:
-	- "Applets" & "Apps" are objects adhering to an MVC structure. They are meant to be customized & expanded upon.
-	- "Common" is a library of 3rd party uninstantiated scripts readily available throughout the CMS.
-	- "Core" is the system code that shouldn't be modified.
-	- "Logs" are... logs.
-	- "Templates" are re-usable HTML/CSS/JS/etc. templates. They are meant to be customized and expanded upon.
-	- "Uploads" (and its children) are system-writable filespaces.
-
-	Author: Aaron D. Caryl - http://www.aaroncaryl.com/
+Author: Aaron D. Caryl - http://www.aaroncaryl.com/
