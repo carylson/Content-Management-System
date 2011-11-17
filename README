@@ -1,11 +1,12 @@
 A self-authored and maintained content management system.
-I have omitted the required DB schema to prevent unauthorized re-use of this CMS.
 Please review the "INSTALL" text for basic installation instructions.
 
-Notes about the application:
-
-- This CMS is used by many businesses and myself.
-    See a demo/example: http://www.aaroncaryl.com/
+Notes:
+- See an "in the wild" demo/example of this CMS:
+    http://www.sa.buffalo.edu/          University at Buffalo Student Association website
+    http://www.advtelehealth.com/       Advantage Home Telehealth website
+    http://www.thinkfirstserve.com/     ThinkFirstServ Inc. website
+    http://www.kmcmahonwahlerdds.com    Kathleen McMahon-Wahler DDS website
 
 - "Applets" & "Apps" are Objects utilizing an MVC structure.
     They are meant to be customized & expanded upon.
@@ -21,6 +22,8 @@ Notes about the application:
     They are meant to be customized and expanded upon.
 
 - "Uploads" (and its children) are system-writable file-space.
+
+- Last but not least... I have omitted the required DB schema to prevent unauthorized use of this CMS.
 
 
 Author: Aaron D. Caryl - http://www.aaroncaryl.com/
