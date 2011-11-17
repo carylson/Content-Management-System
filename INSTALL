@@ -1,12 +1,12 @@
 1. The following files and directories must be writable by the web server:
-    - cache
-    - logs/error.log
-    - uploads
-    - uploads/galleries
-    - common/ajaxplorer/server/conf
-    - common/ajaxplorer/server/users
-    - common/ajaxplorer/server/logs
-    - common/ajaxplorer/server/cache
+    - cache                             (System cache)
+    - logs                              (System error logs)
+    - uploads                           (Uploads file-space)
+    - uploads/galleries                 (Galleries Applet uploads filespace)
+    - common/ajaxplorer/server/conf     (Ajaxplorer config)
+    - common/ajaxplorer/server/users    (Ajaxplorer user data)
+    - common/ajaxplorer/server/logs     (Ajaxplorer logs)
+    - common/ajaxplorer/server/cache    (Ajaxplorer cache)
 
 2. Remove any files in the following directories, if they exist:
     - cache
