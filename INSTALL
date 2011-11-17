@@ -1,48 +1,28 @@
-    
-    QUESTIONS?
-    support@noein.com
-    
-    ----------------------------------------------------------------------------
-    1. The following files and directories must be writable by the web server:
-    ----------------------------------------------------------------------------
-    
-        cache
-        logs/error.log
-        uploads
-        uploads/galleries
-        common/ajaxplorer/server/conf
-        common/ajaxplorer/server/users
-        common/ajaxplorer/server/logs
-        common/ajaxplorer/server/cache
-    
-    ----------------------------------------------------------------------------
-    2. Remove any files in the following directories, if they exist: (they 
-    shouldn't during first install)
-    ----------------------------------------------------------------------------
-    
-        cache
-        uploads
-        uploads/galleries
-        common/ajaxplorer/server/cache
-        common/ajaxplorer/server/users
-    
-    ----------------------------------------------------------------------------
-    3. Clear the log file: (should be clean during first install)
-    ----------------------------------------------------------------------------
-    
-        logs/error.log
-    
-    ----------------------------------------------------------------------------
-    4. Create foundational database structure using provided SQL dump file:
-    ----------------------------------------------------------------------------
-    
-        SVN-REPO-DIRECTORY/db/INSTALL
-    
-    ----------------------------------------------------------------------------
-    5. Make any required configuration changes:
-    ----------------------------------------------------------------------------
-    
-        core/config.json
-        apps/api/config.json
-        apps/backend/config.json
-        apps/frontend/config.json
+1. The following files and directories must be writable by the web server:
+    - cache
+    - logs/error.log
+    - uploads
+    - uploads/galleries
+    - common/ajaxplorer/server/conf
+    - common/ajaxplorer/server/users
+    - common/ajaxplorer/server/logs
+    - common/ajaxplorer/server/cache
+
+2. Remove any files in the following directories, if they exist:
+    - cache
+    - uploads
+    - uploads/galleries
+    - common/ajaxplorer/server/cache
+    - common/ajaxplorer/server/users
+
+3. Clear the log file:
+    - logs/error.log
+
+4. Create foundational database structure using provided SQL dump file:
+    - SVN-REPO-DIRECTORY/db/INSTALL
+
+5. Make any required configuration changes:
+    - core/config.json
+    - apps/api/config.json
+    - apps/backend/config.json
+    - apps/frontend/config.json
