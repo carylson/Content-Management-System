@@ -4,6 +4,9 @@ Please review the "INSTALL" text for basic installation instructions.
 
 Notes about the application:
 
+- This CMS is used by many businesses and myself.
+    See a demo/example: http://www.aaroncaryl.com/
+
 - "Applets" & "Apps" are Objects utilizing an MVC structure.
     They are meant to be customized & expanded upon.
 
